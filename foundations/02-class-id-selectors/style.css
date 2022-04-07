@@ -1,0 +1,26 @@
+/*style.css */
+
+.odd {
+    background-color: rgb(236, 178, 178);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/*Note: Separate each value with a comma.
+
+Note: If a font name contains white-space, it must be quoted. 
+Single quotes must be used when using the "style" attribute in HTML.*/
+
+#second {
+    color: rgb(55, 55, 145);
+    font-size: 38px;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(163, 255, 163);
+    font-size: 24px;
+    font-weight: bold;
+}
